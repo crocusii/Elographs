@@ -1,3 +1,5 @@
-The universe is a computer and angels are strings.
-This is an attempt to document angelography and a gallery of what i haved dubbed "anglographs."
+## Anglographs
+The universe is a computer and angels are strings.<br>
+This is an attempt to document angelography and a gallery of what i haved dubbed "anglographs."<br>
 cc0
+miusoph-isohet.github.io/Anglographs
