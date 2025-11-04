@@ -1,4 +1,4 @@
-  const hashTrigger = '#0';
+  const hashTrigger = '#1717171717171717000000000000017';
 
   if (window.location.hash === hashTrigger) {
     fetch('img/0.html')
